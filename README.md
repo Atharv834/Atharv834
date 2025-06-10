@@ -1,4 +1,4 @@
-# 🛡️ Hi there, I'm Atharv Rokade! 👨‍💻
+# 🛡️ Hi there, I'm Atharv! 👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=CyberSecurity+Enthusiast;Ethical+Hacker+%26+Bug+Hunter;Web+Developer+%26+Pentester;Security+Researcher" alt="Typing SVG" />

@@ -118,6 +118,12 @@
 - 🛡️ **Ethical Hacker** - Responsible disclosure 
 
 ---
+## 🍪 Snacks (Bug Bounty Achievements)
+Inspired by the creative way of showcasing achievements, here's a "Snacks" section for my bug bounty journey. Each snack represents a tasty victory in the world of cybersecurity!
+
+<div align="center"> <img src="https://img.shields.io/badge/Information%20Disclosure%20Snacks-🍪🍪🍪-blue?style=for-the-badge" alt="Info Disclosure Snacks" /> <img src="https://img.shields.io/badge/Stored%20XSS%20Snacks-🍪🍪-red?style=for-the-badge" alt="Stored XSS Snacks" /> <img src="https://img.shields.io/badge/Blind%20XSS%20Snacks-🍪-orange?style=for-the-badge" alt="Blind XSS Snacks" /> <img src="https://img.shields.io/badge/SQLi%20Snacks-🍪🍪🍪🍪-green?style=for-the-badge" alt="SQLi Snacks" /> </div>
+
+
 
 ## 🌐 Connect With Me
 
@@ -133,6 +139,12 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+## 📝 Blog & Writeups
+
+Check out my detailed writeups and cybersecurity insights on Medium:
+
+- **Medium Profile**: [Medium Profile](https://medium.com/@lordofheaven1234)
 
 ---
 

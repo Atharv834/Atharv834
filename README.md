@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 - 🔍 **Cybersecurity Enthusiast** passionate about ethical hacking and bug bounty hunting
-- 🌱 Currently expanding my skills in **Web Development** and **Advanced Penetration Testing**
+- 🌱 Currently expanding my skills in **Advanced Penetration Testing**
 - 🛡️ Security researcher focused on **Web Application Security** and **Network Penetration Testing**  
 - 💼 Open to **Bug Bounty Collaborations** and **Security Consulting** opportunities
 - 💬 Ask me about **Ethical Hacking**, **Cybersecurity**, **OWASP Top 10**, and **Bug Bounty Hunting**

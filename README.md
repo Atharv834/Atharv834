@@ -23,6 +23,32 @@
 
 ---
 
+## 🏆 Bug Bounty Achievements & Halls of Fame
+
+I've had the privilege to contribute my skills as a bug bounty hunter and security researcher on world-renowned platforms and organizations. Here are some highlights from my journey:
+
+- 🪙 **Renowned Crypto Website:** [$1000 bounty](https://www.linkedin.com/posts/atharvrokade_bugbounty-hardworkpaysoff-hacking-activity-7301445216408891393-2BmT/) *(Information Disclosure)*
+- 🪙 **Renowned Crypto Website:** $50 bounty *(Small Misconfiguration)*
+- 🕵️‍♂️ **Redacted:** [$100 Bug Bounty](https://www.linkedin.com/posts/atharvrokade_bugbounty-cybersecurity-ethicalhacking-activity-7277708643796439040-afej/) *(Stored XSS)*
+- 🏅 **Accenture:** [Hall of Fame](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments) *(Highly Information Disclosure)*
+- 🏅 **LG Electronics:** [Hall of Fame](https://www.linkedin.com/posts/atharvrokade_bugbounty-loa-cybersecurity-activity-7349685468516569088-eevN) *(Business Logic)*
+- 🦅 **US Government:** [Hall of Fame](https://usdot.responsibledisclosure.com/hc/en-us/articles/18234850057363-Acknowledgements) *(Information Disclosure)*
+- 📰 **BBC News:** [Acknowledgement](https://www.linkedin.com/posts/atharvrokade_bugbounty-ethicalhacking-cybersecurity-activity-7301838094591258624-bavz/) *(SSTI + Hyperlink Injection)*
+- 🎓 **Princeton University:** [Reflected XSS](https://www.linkedin.com/posts/atharvrokade_bugbounty-responsibledisclosure-rxss-activity-7350144058394054656-jxTM) *(Acknowledged via Email)*
+- 💡 **SAP Community:** *Acknowledgement* (Payment Business Logic Error)
+- 🇧🇷 **Brazilian Government:** *Acknowledged via Email* (S3 Bucket Misconfiguration)
+- 🔒 **Samsung VPN Portal:** *Reflected XSS (fixed)*
+- 🔒 **Asus VPN Portal:** *Reflected XSS CVE-2025-0133 (fixed)*
+- 🚀 **NASA Government:** *Reflected XSS (Duplicate)*
+- 📶 **Nokia:** *No-rate Limit (Duplicate)*
+- 🎓 **Largest Indonesia University:** *Information Disclosure (PII) Pending Fix*
+- 🇮🇳 **Indian Government Website:** *Acknowledged via Email*
+- 🌐 **Popular Job Search Platform:** [Account Takeover](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=user_profile_page---------10-------------1608895d7d06----------------------)
+
+*...and many more!*
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -118,12 +144,18 @@
 - 🛡️ **Ethical Hacker** - Responsible disclosure 
 
 ---
+
 ## 🍪 Snacks (Bug Bounty Achievements)
 Inspired by the creative way of showcasing achievements, here's a "Snacks" section for my bug bounty journey. Each snack represents a tasty victory in the world of cybersecurity!
 
-<div align="center"> <img src="https://img.shields.io/badge/Information%20Disclosure%20Snacks-🍪🍪🍪-blue?style=for-the-badge" alt="Info Disclosure Snacks" /> <img src="https://img.shields.io/badge/Stored%20XSS%20Snacks-🍪🍪-red?style=for-the-badge" alt="Stored XSS Snacks" /> <img src="https://img.shields.io/badge/Blind%20XSS%20Snacks-🍪-orange?style=for-the-badge" alt="Blind XSS Snacks" /> <img src="https://img.shields.io/badge/SQLi%20Snacks-🍪🍪🍪🍪-green?style=for-the-badge" alt="SQLi Snacks" /> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Information%20Disclosure%20Snacks-🍪🍪🍪-blue?style=for-the-badge" alt="Info Disclosure Snacks" /> 
+  <img src="https://img.shields.io/badge/Stored%20XSS%20Snacks-🍪🍪-red?style=for-the-badge" alt="Stored XSS Snacks" /> 
+  <img src="https://img.shields.io/badge/Blind%20XSS%20Snacks-🍪-orange?style=for-the-badge" alt="Blind XSS Snacks" /> 
+  <img src="https://img.shields.io/badge/SQLi%20Snacks-🍪🍪🍪🍪-green?style=for-the-badge" alt="SQLi Snacks" /> 
+</div>
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -134,7 +166,6 @@ Inspired by the creative way of showcasing achievements, here's a "Snacks" secti
   <a href="https://linkedin.com/in/atharvrokade">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://github.com/atharv834">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>

@@ -1,7 +1,7 @@
 # 🛡️ Hi there, I'm Atharv! 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=CyberSecurity+Enthusiast;Ethical+Hacker+%26+Bug+Hunter;Web+Developer+%26+Pentester;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Ethical+Hacker;Security+Researcher" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 - 🔍 **Cybersecurity Enthusiast** passionate about ethical hacking and bug bounty hunting
 - 🌱 Currently expanding my skills in **Advanced Penetration Testing**
-- 🛡️ Security researcher focused on **Web Application Security** and **Network Penetration Testing**  
+- 🛡️ Security researcher focused on **Web Application Security** and **Network Penetration Testing**
 - 💼 Open to **Bug Bounty Collaborations** and **Security Consulting** opportunities
 - 💬 Ask me about **Ethical Hacking**, **Cybersecurity**, **OWASP Top 10**, and **Bug Bounty Hunting**
 - 📫 Reach me at: **atharv04@duck.com**
@@ -30,20 +30,20 @@ I've had the privilege to contribute my skills as a bug bounty hunter and securi
 - 🪙 **Renowned Crypto Website:** [$1000 bounty](https://www.linkedin.com/posts/atharvrokade_bugbounty-hardworkpaysoff-hacking-activity-7301445216408891393-2BmT/) *(Information Disclosure)*
 - 🪙 **Renowned Crypto Website:** $50 bounty *(Small Misconfiguration)*
 - 🕵️‍♂️ **Redacted:** [$100 Bug Bounty](https://www.linkedin.com/posts/atharvrokade_bugbounty-cybersecurity-ethicalhacking-activity-7277708643796439040-afej/) *(Stored XSS)*
-- 🏅 **Accenture:** [Hall of Fame](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments) *(Highly Information Disclosure)*
-- 🏅 **LG Electronics:** [Hall of Fame](https://www.linkedin.com/posts/atharvrokade_bugbounty-loa-cybersecurity-activity-7349685468516569088-eevN) *(Business Logic)*
+- 🏅 **Accenture:** [Hall of Fame](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments) *(High Impact Information Disclosure)*
+- 🏅 **LG Electronics:** [Hall of Fame](https://www.linkedin.com/posts/atharvrokade_bugbounty-loa-cybersecurity-activity-7349685468516569088-eevN) *(Business Logic Flaw)*
 - 🦅 **US Government:** [Hall of Fame](https://usdot.responsibledisclosure.com/hc/en-us/articles/18234850057363-Acknowledgements) *(Information Disclosure)*
 - 📰 **BBC News:** [Acknowledgement](https://www.linkedin.com/posts/atharvrokade_bugbounty-ethicalhacking-cybersecurity-activity-7301838094591258624-bavz/) *(SSTI + Hyperlink Injection)*
 - 🎓 **Princeton University:** [Reflected XSS](https://www.linkedin.com/posts/atharvrokade_bugbounty-responsibledisclosure-rxss-activity-7350144058394054656-jxTM) *(Acknowledged via Email)*
-- 💡 **SAP Community:** *Acknowledgement* (Payment Business Logic Error)
-- 🇧🇷 **Brazilian Government:** *Acknowledged via Email* (S3 Bucket Misconfiguration)
-- 🔒 **Samsung VPN Portal:** *Reflected XSS (fixed)*
-- 🔒 **Asus VPN Portal:** *Reflected XSS CVE-2025-0133 (fixed)*
+- 💡 **SAP Community:** *Acknowledgement* *(Payment Business Logic Error)*
+- 🇧🇷 **Brazilian Government:** *Acknowledged via Email* *(S3 Bucket Misconfiguration)*
+- 🔒 **Samsung VPN Portal:** *Reflected XSS (Fixed)*
+- 🔒 **Asus VPN Portal:** *Reflected XSS CVE-2025-0133 (Fixed)*
 - 🚀 **NASA Government:** *Reflected XSS (Duplicate)*
-- 📶 **Nokia:** *No-rate Limit (Duplicate)*
-- 🎓 **Largest Indonesia University:** *Information Disclosure (PII) Pending Fix*
+- 📶 **Nokia:** *No Rate Limit (Duplicate)*
+- 🎓 **Largest Indonesian University:** *Information Disclosure (PII) Pending Fix*
 - 🇮🇳 **Indian Government Website:** *Acknowledged via Email*
-- 🌐 **Popular Job Search Platform:** [Account Takeover](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=user_profile_page---------10-------------1608895d7d06----------------------)
+- 🌐 **Popular Job Search Platform:** [Account Takeover](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=user_profile)
 
 *...and many more!*
 
@@ -141,11 +141,12 @@ I've had the privilege to contribute my skills as a bug bounty hunter and securi
 
 - 🎯 **Bug Bounty Hunter** - Active on various platforms
 - 🔍 **Security Researcher** - Vulnerability assessment and penetration testing
-- 🛡️ **Ethical Hacker** - Responsible disclosure 
+- 🛡️ **Ethical Hacker** - Responsible disclosure advocate
 
 ---
 
 ## 🍪 Snacks (Bug Bounty Achievements)
+
 Inspired by the creative way of showcasing achievements, here's a "Snacks" section for my bug bounty journey. Each snack represents a tasty victory in the world of cybersecurity!
 
 <div align="center">
@@ -170,6 +171,8 @@ Inspired by the creative way of showcasing achievements, here's a "Snacks" secti
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+---
 
 ## 📝 Blog & Writeups
 

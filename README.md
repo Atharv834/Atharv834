@@ -1,164 +1,261 @@
-# 🛡️ Hi there, I'm Atharv! 👨‍💻
-
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="45" align="left"> Welcome to My Cyber Fortress! 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Ethical+Hacker;Security+Researcher" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Atharv%20Rokade&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=00FF41&desc=🛡️%20Security%20Researcher%20|%20🎯%20Bug%20Bounty%20Hunter%20|%20🔐%20CAPv2%20Certified&descAlignY=55&descSize=22" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharv834&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/atharv834?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/atharv834?label=Total%20Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=80&lines=Cybersecurity+Enthusiast+with+CAPv2+Certification;$1000%2B+in+Bug+Bounties+Earned;Multiple+Hall+of+Fames+Achieved;OWASP+Top+10+Expert;Advanced+Penetration+Tester" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharv834&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/atharv834?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/atharv834?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Bug%20Bounties-10%2B-red?style=for-the-badge&logo=hackerone" alt="Bug Bounties" />
 </div>
 
 ---
 
-## 🎯 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-- 🔍 **Cybersecurity Enthusiast** passionate about ethical hacking and bug bounty hunting
-- 🌱 Currently expanding my skills in **Advanced Penetration Testing**
-- 🛡️ Security researcher focused on **Web Application Security** and **Network Penetration Testing**
-- 💼 Open to **Bug Bounty Collaborations** and **Security Consulting** opportunities
-- 💬 Ask me about **Ethical Hacking**, **Cybersecurity**, **OWASP Top 10**, and **Bug Bounty Hunting**
-- 📫 Reach me at: **atharv04@duck.com**
+```python
+class SecurityResearcher:
+    def __init__(self):
+        self.name = "Atharv Rokade"
+        self.role = "Bug Bounty Hunter & Security Researcher"
+        self.certification = "CAPv2 Certified"
+        self.location = "India"
+        self.email = "atharv04@duck.com"
+        
+    def skills(self):
+        return {
+            "specialization": ["Web Application Security", "Network Penetration Testing"],
+            "vulnerabilities": ["XSS", "SQLi", "IDOR", "Business Logic", "SSTI", "Information Disclosure"],
+            "tools": ["Burp Suite Pro", "Metasploit", "Nmap", "OWASP ZAP", "Nuclei"],
+            "languages": ["Python", "JavaScript", "C++", "Bash"],
+            "current_focus": "Advanced Exploitation Techniques & Zero-Day Research"
+        }
+    
+    def achievements(self):
+        return "10+ Hall of Fames | $1000+ in Bounties | CAPv2 Certified"
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🎯 Quick Highlights:
+- 🏆 **CAPv2 Certified** - Certified Application Pentester
+- 💰 **$1000+ in Bug Bounties** across multiple platforms
+- 🛡️ **10+ Hall of Fames** including US Government, Accenture, LG Electronics
+- 🔍 **Active Security Researcher** with focus on Web Application Security
+- 📝 **Technical Writer** on Medium sharing security insights
+- 🌐 **Open for Collaborations** in Bug Bounty Programs & Security Consulting
 
 ---
 
-## 🏆 Bug Bounty Achievements & Halls of Fame
-
-I've had the privilege to contribute my skills as a bug bounty hunter and security researcher on world-renowned platforms and organizations. Here are some highlights from my journey:
-
-- 🪙 **Renowned Crypto Website:** [$1000 bounty](https://www.linkedin.com/posts/atharvrokade_bugbounty-hardworkpaysoff-hacking-activity-7301445216408891393-2BmT/) *(Information Disclosure)*
-- 🪙 **Renowned Crypto Website:** $50 bounty *(Small Misconfiguration)*
-- 🕵️‍♂️ **Redacted:** [$100 Bug Bounty](https://www.linkedin.com/posts/atharvrokade_bugbounty-cybersecurity-ethicalhacking-activity-7277708643796439040-afej/) *(Stored XSS)*
-- 🏅 **Accenture:** [Hall of Fame](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments) *(High Impact Information Disclosure)*
-- 🏅 **LG Electronics:** [Hall of Fame](https://www.linkedin.com/posts/atharvrokade_bugbounty-loa-cybersecurity-activity-7349685468516569088-eevN) *(Business Logic Flaw)*
-- 🦅 **US Government:** [Hall of Fame](https://usdot.responsibledisclosure.com/hc/en-us/articles/18234850057363-Acknowledgements) *(Information Disclosure)*
-- 📰 **BBC News:** [Acknowledgement](https://www.linkedin.com/posts/atharvrokade_bugbounty-ethicalhacking-cybersecurity-activity-7301838094591258624-bavz/) *(SSTI + Hyperlink Injection)*
-- 🎓 **Princeton University:** [Reflected XSS](https://www.linkedin.com/posts/atharvrokade_bugbounty-responsibledisclosure-rxss-activity-7350144058394054656-jxTM) *(Acknowledged via Email)*
-- 💡 **SAP Community:** *Acknowledgement* *(Payment Business Logic Error)*
-- 🇧🇷 **Brazilian Government:** *Acknowledged via Email* *(S3 Bucket Misconfiguration)*
-- 🔒 **Samsung VPN Portal:** *Reflected XSS (Fixed)*
-- 🔒 **Asus VPN Portal:** *Reflected XSS CVE-2025-0133 (Fixed)*
-- 🚀 **NASA Government:** *Reflected XSS (Duplicate)*
-- 📶 **Nokia:** *No Rate Limit (Duplicate)*
-- 🎓 **Largest Indonesian University:** *Information Disclosure (PII) Pending Fix*
-- 🇮🇳 **Indian Government Website:** *Acknowledged via Email*
-- 🌐 **Popular Job Search Platform:** [Account Takeover](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=user_profile)
-
-*...and many more!*
-
----
-
-## 🏆 GitHub Trophies
+## 🎖️ Professional Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharv834&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CAPv2-Certified%20Application%20Pentester-gold?style=for-the-badge&logo=security&logoColor=white" alt="CAPv2" />
+        <br><strong>CAPv2</strong><br>Certified Application Pentester<br>✅ Active
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/More%20Certifications-Coming%20Soon-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Upcoming" />
+        <br><strong>In Progress</strong><br>Advanced Security Certifications<br>🚀 2025
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+## 🏆 Hall of Fame & Bug Bounty Achievements
+
+### 💎 Premium Bounties ($100+)
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><strong>Renowned Crypto Platform</strong></td>
+    <td><code>Information Disclosure</code></td>
+    <td><strong>$1000</strong></td>
+    <td><a href="https://www.linkedin.com/posts/atharvrokade_bugbounty-hardworkpaysoff-hacking-activity-7301445216408891393-2BmT/">🔗 Proof</a></td>
+  </tr>
+  <tr>
+    <td>🥈</td>
+    <td><strong>Redacted Platform</strong></td>
+    <td><code>Stored XSS</code></td>
+    <td><strong>$100</strong></td>
+    <td><a href="https://www.linkedin.com/posts/atharvrokade_bugbounty-cybersecurity-ethicalhacking-activity-7277708643796439040-afej/">🔗 Proof</a></td>
+  </tr>
+  <tr>
+    <td>🥉</td>
+    <td><strong>Crypto Platform</strong></td>
+    <td><code>Misconfiguration</code></td>
+    <td><strong>$50</strong></td>
+    <td>✅ Acknowledged</td>
+  </tr>
+</table>
+
+### 🏅 Prestigious Hall of Fames
+<div align="center">
+  
+| Organization | Vulnerability Type | Impact | Recognition |
+|:---:|:---:|:---:|:---:|
+| 🦅 **US Government** | Information Disclosure | High | [Hall of Fame](https://usdot.responsibledisclosure.com/hc/en-us/articles/18234850057363-Acknowledgements) |
+| 💼 **Accenture** | Information Disclosure | High | [Hall of Fame](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments) |
+| 📱 **LG Electronics** | Business Logic Flaw | Medium | [Hall of Fame](https://www.linkedin.com/posts/atharvrokade_bugbounty-loa-cybersecurity-activity-7349685468516569088-eevN) |
+| 📰 **BBC News** | SSTI + Hyperlink Injection | Medium | [Acknowledgement](https://www.linkedin.com/posts/atharvrokade_bugbounty-ethicalhacking-cybersecurity-activity-7301838094591258624-bavz/) |
+| 🎓 **Princeton University** | Reflected XSS | Medium | [Acknowledged](https://www.linkedin.com/posts/atharvrokade_bugbounty-responsibledisclosure-rxss-activity-7350144058394054656-jxTM) |
+| 🔐 **Asus** | Reflected XSS | CVE-2025-0133 | Fixed |
+| 🌐 **Job Search Platform** | Account Takeover | Critical | [Write-up](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a) |
+
+</div>
+
+### 🌍 Government & Enterprise Acknowledgements
+- 🇧🇷 **Brazilian Government** - S3 Bucket Misconfiguration
+- 🇮🇳 **Indian Government** - Security Vulnerability
+- 🚀 **NASA** - Reflected XSS (Duplicate)
+- 💡 **SAP Community** - Business Logic Error
+- 🔒 **Samsung VPN Portal** - Reflected XSS
+- 📶 **Nokia** - Rate Limiting Issue
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### 🔐 **Cybersecurity Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-2C5AA0?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549e?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" />
-</p>
+### 🔐 Penetration Testing & Security Tools
+<div align="center">
+  
+| Category | Tools & Technologies |
+|:---:|:---|
+| **OS & Distros** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-15E775?style=flat-square&logo=linux&logoColor=white) ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=white) |
+| **Web Testing** | ![Burp](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burp-suite&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP_ZAP-00549e?style=flat-square&logo=owasp&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-4B275F?style=flat-square&logo=nuclei&logoColor=white) |
+| **Network** | ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2C5AA0?style=flat-square&logo=metasploit&logoColor=white) |
+| **Scanners** | ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=nessus&logoColor=white) ![Acunetix](https://img.shields.io/badge/Acunetix-000000?style=flat-square&logo=acunetix&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=sql&logoColor=white) |
 
-### 💻 **Programming & Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
+</div>
 
-### 🗄️ **Databases & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 🎨 **Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+### 💻 Programming & Development Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,nodejs,express,mongodb,mysql,git,linux,docker,aws&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv834&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv834&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharv834&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv834&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&dates=aaaaaa" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv834&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv834&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharv834&theme=radical" alt="Productive Time" />
 </div>
 
 ---
 
-## 🎯 Cybersecurity Focus Areas
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Web%20App-Security-red?style=for-the-badge&logo=web&logoColor=white" alt="Web App Security" />
-      <br><strong>Web Application<br>Security</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Network-Penetration-blue?style=for-the-badge&logo=network&logoColor=white" alt="Network Penetration" />
-      <br><strong>Network<br>Penetration</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Bug%20Bounty-Hunting-green?style=for-the-badge&logo=bug&logoColor=white" alt="Bug Bounty" />
-      <br><strong>Bug Bounty<br>Hunting</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/OSINT-Research-purple?style=for-the-badge&logo=search&logoColor=white" alt="OSINT" />
-      <br><strong>OSINT<br>Research</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏅 Achievements & Certifications
-
-- 🎯 **Bug Bounty Hunter** - Active on various platforms
-- 🔍 **Security Researcher** - Vulnerability assessment and penetration testing
-- 🛡️ **Ethical Hacker** - Responsible disclosure advocate
-
----
-
-## 🍪 Snacks (Bug Bounty Achievements)
-
-Inspired by the creative way of showcasing achievements, here's a "Snacks" section for my bug bounty journey. Each snack represents a tasty victory in the world of cybersecurity!
+## 🎯 Security Expertise Matrix
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Information%20Disclosure%20Snacks-🍪🍪🍪-blue?style=for-the-badge" alt="Info Disclosure Snacks" /> 
-  <img src="https://img.shields.io/badge/Stored%20XSS%20Snacks-🍪🍪-red?style=for-the-badge" alt="Stored XSS Snacks" /> 
-  <img src="https://img.shields.io/badge/Blind%20XSS%20Snacks-🍪-orange?style=for-the-badge" alt="Blind XSS Snacks" /> 
-  <img src="https://img.shields.io/badge/SQLi%20Snacks-🍪🍪🍪🍪-green?style=for-the-badge" alt="SQLi Snacks" /> 
+  <table>
+    <tr>
+      <th>Domain</th>
+      <th>Expertise Level</th>
+      <th>Key Skills</th>
+    </tr>
+    <tr>
+      <td><strong>Web Application Security</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Expert-95%25-brightgreen?style=flat-square" alt="95%" />
+      </td>
+      <td>XSS, SQLi, IDOR, CSRF, XXE, SSTI</td>
+    </tr>
+    <tr>
+      <td><strong>Network Penetration</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Advanced-85%25-green?style=flat-square" alt="85%" />
+      </td>
+      <td>Port Scanning, Service Enumeration, Exploitation</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud Security</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Intermediate-75%25-yellow?style=flat-square" alt="75%" />
+      </td>
+      <td>AWS, S3 Misconfigurations, IAM</td>
+    </tr>
+    <tr>
+      <td><strong>OSINT</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Advanced-80%25-green?style=flat-square" alt="80%" />
+      </td>
+      <td>Reconnaissance, Information Gathering</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Achievement Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏅_CAPv2_Certified-2025-gold?style=for-the-badge" alt="CAPv2" />
+  <img src="https://img.shields.io/badge/💰_$1000+_Bounties-Earned-success?style=for-the-badge" alt="Bounties" />
+  <img src="https://img.shields.io/badge/🏆_10+_Hall_of_Fames-Achieved-blue?style=for-the-badge" alt="HOF" />
+  <img src="https://img.shields.io/badge/📝_Security_Writer-Active-purple?style=for-the-badge" alt="Writer" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv834&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" alt="Activity Graph" />
+</div>
+
+---
+
+## 🍪 Bug Bounty Snack Counter
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/XSS-15+_Findings-red?style=for-the-badge&logo=bug&logoColor=white" alt="XSS" />
+        <br>🍪🍪🍪
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SQLi-8+_Findings-orange?style=for-the-badge&logo=database&logoColor=white" alt="SQLi" />
+        <br>🍪🍪
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IDOR-10+_Findings-yellow?style=for-the-badge&logo=key&logoColor=black" alt="IDOR" />
+        <br>🍪🍪🍪
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Info_Disclosure-20+_Findings-green?style=for-the-badge&logo=information&logoColor=white" alt="Info" />
+        <br>🍪🍪🍪🍪
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📝 Latest Blog Posts & Write-ups
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [From Innocent Messages to Total Takeover: Account Takeover Story](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a)
+- 📝 More write-ups coming soon on [Medium](https://medium.com/@lordofheaven1234)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect & Collaborate
 
 <div align="center">
   <a href="mailto:atharv04@duck.com">
@@ -170,34 +267,45 @@ Inspired by the creative way of showcasing achievements, here's a "Snacks" secti
   <a href="https://github.com/atharv834">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://medium.com/@lordofheaven1234">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </div>
 
 ---
 
-## 📝 Blog & Writeups
-
-Check out my detailed writeups and cybersecurity insights on Medium:
-
-- **Medium Profile**: [Medium Profile](https://medium.com/@lordofheaven1234)
-
----
-
-## 📊 Activity Graph
+## 💬 Security Philosophy
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv834&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" alt="Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20hack%20it.&author=Atharv%20Rokade" alt="Quote" />
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 🎮 When I'm Not Hacking
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+```javascript
+const interests = {
+    learning: ["Research", "Reading medium articles", "Automation"],
+    contributing: ["Open Source Security Tools", "Bug Bounty Communities"],
+    sharing: ["Security Knowledge", "CTF Write-ups", "Vulnerability Research"],
+    goals_2025: [
+        "Discover Critical CVEs",
+        "Contribute to OWASP Projects",
+        "Mentor Aspiring Security Researchers",
+        "Achieve More Advanced Certifications"
+    ]
+};
+```
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/atharv834">atharv834</a> | Made with ❤️ and lots of ☕</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontSize=20&fontColor=00FF41&animation=fadeIn" alt="Footer" />
+  
+  ### Thanks for visiting my profile! Let's make the internet safer together 🛡️
+  
+  <i>⭐️ From <a href="https://github.com/atharv834">@atharv834</a> | CAPv2 Certified Security Researcher</i>
+  
+  <img src="https://img.shields.io/badge/Open_for-Bug_Bounty_Collaborations-brightgreen?style=for-the-badge" alt="Open" />
 </div>

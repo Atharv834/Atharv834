@@ -42,7 +42,6 @@ Bug Bounty Hunter and Security Researcher based in **India**, specializing in we
 ```
 
 - 🔭 Currently hunting on **HackerOne, Bugcrowd & private programs**
-- 🌱 Preparing for **eJPT → OSCP**
 - ✍️ Writing security research on **[Medium / InfoSec Write-ups](https://medium.com/@lordofheaven1234)**
 - 📫 Reach me at **atharv04@duck.com**
 
@@ -90,7 +89,6 @@ Bug Bounty Hunter and Security Researcher based in **India**, specializing in we
 | Status | Certification |
 |:---:|:---|
 | ✅ **Active** | ![CAPv2](https://img.shields.io/badge/CAPv2-Certified%20Application%20Pentester-FFD700?style=for-the-badge&logo=shield&logoColor=black) · Issued 2025 |
-| 🔄 **In Pipeline** | ![Next](https://img.shields.io/badge/eJPT%20%2F%20OSCP%20%2F%20CEH-Preparing%202025-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white) |
 
 </div>
 

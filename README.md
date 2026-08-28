@@ -171,8 +171,6 @@ Bug Bounty Hunter and Security Researcher based in **India**, specializing in we
 
 <p align="center">
 <a href="mailto:atharv04@duck.com"><img src="https://img.shields.io/badge/Email-atharv04%40duck.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/atharvrokade"><img src="https://img.shields.io/badge/LinkedIn-atharvrokade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/atharv834"><img src="https://img.shields.io/badge/GitHub-atharv834-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://medium.com/@lordofheaven1234"><img src="https://img.shields.io/badge/Medium-lordofheaven1234-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 

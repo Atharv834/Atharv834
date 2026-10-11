@@ -1,5 +1,5 @@
 <!--
-ATHARV ROKADE — FIELD REPORT / 001
+ATHARV  — FIELD REPORT / 001
 Original illustration system: ./assets/*.svg
 Design intentionally uses repository-hosted SVG artwork, not external stat-image generators.
 To install: upload README.md AND the assets/ folder to the main branch of atharv834/atharv834.
@@ -8,7 +8,7 @@ Images are intentionally dark-backed so they display consistently in GitHub ligh
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/atharv834/atharv834/main/assets/00-hero.svg" width="100%" alt="Atharv Rokade — Bug bounty hunter and security researcher. Original illustrated digital forensics poster." />
+<img src="https://raw.githubusercontent.com/atharv834/atharv834/main/assets/00-hero.svg" width="100%" alt="Atharv  — Bug bounty hunter and security researcher. Original illustrated digital forensics poster." />
 
 <br />
 
@@ -30,7 +30,7 @@ Images are intentionally dark-backed so they display consistently in GitHub ligh
 
 ### `// THE PERSON BEHIND THE REPORTS`
 
-I'm **Atharv Rokade**, also known as **`lordofheaven1234`** — a security researcher from India. I investigate issues in real systems, write clear technical case studies, and report findings through responsible disclosure. My work focuses on **XSS, SQL injection, IDOR, SSTI, authentication, business logic, and cloud misconfigurations**.
+I'm **Atharv **, also known as **`lordofheaven1234`** — a security researcher from India. I investigate issues in real systems, write clear technical case studies, and report findings through responsible disclosure. My work focuses on **XSS, SQL injection, IDOR, SSTI, authentication, business logic, and cloud misconfigurations**.
 
 `CAPv2 — Certified Application Pentester (2025)` · `HackerOne / Bugcrowd / Private Programs` · `Open to Collaboration`
 
@@ -251,6 +251,6 @@ I'm **Atharv Rokade**, also known as **`lordofheaven1234`** — a security resea
 
 <br /><br />
 
-<sub>Designed as a security field report · © Atharv Rokade · Responsible disclosure only.</sub>
+<sub>Designed as a security field report · © Atharv · Responsible disclosure only.</sub>
 
 </div>

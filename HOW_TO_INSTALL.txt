@@ -1,0 +1,19 @@
+ATHARV ROKADE — FIELD REPORT / PROJECT SHOWCASE EDITION
+
+Upload README.md and the ENTIRE assets/ directory together into the root of:
+  https://github.com/atharv834/atharv834
+Branch: main
+
+Do not upload just README.md or custom images will be missing.
+
+Updates:
+- Trust Record remains Section 02 (before Medium case studies)
+- India tricolour remains part of both SVG hero versions
+- Built in Lab / projects now showcases VoidChat, SecureVault, ReconBox
+- ReconBox direct repository link verified: https://github.com/Atharv834/reconbox
+- SecureVault direct repository link verified: https://github.com/Atharv834/securevault
+- VoidChat exact public repository URL was not found. Its card directs to GitHub repository overview instead of inventing a deep link. Update its URL after publication.
+- S3BucketMisconf and Wanderlust retained within an expandable additional-projects section
+- Other case-study / disclosure / Medium writeup sections preserved
+
+Responsive layout uses separate desktop/mobile SVG illustrations via <picture>.
